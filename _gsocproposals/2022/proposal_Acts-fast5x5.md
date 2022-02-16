@@ -4,6 +4,9 @@ layout: gsoc_proposal
 project: Acts
 year: 2022
 organization: CERN
+difficulty: medium
+duration: 175
+mentor_avail: June-August
 ---
 
 ## Description
@@ -16,7 +19,7 @@ A key role in optimizing performance of tracking software is the deployment of h
 We propose the deployment of the fast5x5 library for the ACTS linear algebra implementation, which makes use of xsimd for CPU vectorization in common matrix operations. The student is expected to make the existing library implementation available to ACTS as a compute backend and to perform a subsequent performance study to validate the approach.
 
 ## Expected results
-Working prototype
+Working prototype and performance statement
 
 ## Requirements
 C++
