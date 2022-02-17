@@ -5,7 +5,7 @@ project: Acts
 year: 2022
 organization: CERN
 difficulty: medium
-duration: 175
+duration: 350h
 mentor_avail: June-August
 ---
 
@@ -22,11 +22,12 @@ We propose the deployment of the fast5x5 library for the ACTS linear algebra imp
 Working prototype and performance statement
 
 ## Requirements
-C++
+C++, experience with code optimization/performance tools and vectorization would be an asset
 
 ## Mentors
   * **[Joana Niermann](mailto:joana.niermann@cern.ch)** (CERN)
-  * [Hadrien Grasland](mailto:)
+  * [Hadrien Grasland](mailto:hadrien.grasland@ijclab.in2p3.fr)
+  * [Paul Gessinger](mailto:paul.gessinger@cern.ch)
 
 ## Links
   * [Acts](https://github.com/acts-project/acts)
