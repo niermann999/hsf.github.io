@@ -13,7 +13,9 @@ layout: plain
 * Jakob Blomer [Jakob Blomer](mailto:jblomer@cern.ch) CERN
 * Eric Conte [eric.conte@iphc.cnrs.fr](mailto:eric.conte@iphc.cnrs.fr) IPHC
 * Benjamin Fuks [fuks@lpthe.jussieu.fr](mailto:fuks@lpthe.jussieu.fr) LPTHE
+* Paul Gessinger [Paul Gessinger](mailto:paul.gessinger@cern.ch) CERN
 * Andrei Gheata [andrei.gheata@cern.ch](mailto:andrei.gheata@cern.ch) CERN
+* Hadrien Grasland [Hadrien Grasland](mailto:hadrien.grasland@ijclab.in2p3.fr) IJCLab
 * Bernhard Manfred Gruber [bernhard.manfred.gruber@cern.ch](mailto:bernhard.manfred.gruber@cern.ch) CERN
 * Benedikt Hegner [benedikt.hegner@cern.ch](mailto:benedikt.hegner@cern.ch) CERN
 * Lukas Heinrich [lukas.heinrich@cern.ch](mailto:lukas.heinrich@cern.ch) TUM
