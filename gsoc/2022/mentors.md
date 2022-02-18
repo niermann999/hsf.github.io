@@ -25,5 +25,5 @@ layout: plain
 * Dalila Salamani [Dalila Salamani](mailto:dalila.salamani@cern.ch) CERN
 * Cedric Sefron[Cedric Sefron](mailto:cedric.sefron@cern.ch) CERN
 * Mayank Sharma[Mayank Sharma](mailto:mayank.sharma@cern.ch) CERN
-* Joana Niermann[Joana Niermann](mailto:joana.niermann@cern.ch) CERN
+* Joana Niermann [Joana Niermann](mailto:joana.niermann@cern.ch) CERN
 * Anna Zaborowska[Anna Zaborowska](mailto:anna.zaborowska@cern.ch) CERN
